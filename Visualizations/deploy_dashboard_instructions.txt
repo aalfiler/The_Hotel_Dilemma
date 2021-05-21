@@ -1,0 +1,6 @@
+To deploy the dashboard by launching a server on the CLI:
+
+$ panel serve Dashboard.ipynb
+
+One line should contain the following: 'Bokeh app running at: http://localhost:5006/Dashboard'
+Copy the 'http://localhost:5006/Dashboard' into your web browser to view the dashboard.
