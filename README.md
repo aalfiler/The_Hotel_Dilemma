@@ -3,7 +3,7 @@
 ## **Motivation**
 
 - After a 1-year pandemic, we all need a vacation...
-- Conduct a project using python + machine learnin related to supply chain management and demand forecasting, which led to a very interesting prompt related to forecasting hotel reservation cancellations. 
+- Conduct a project using python + machine learning related to supply chain management and demand forecasting, which led to a very interesting prompt related to forecasting hotel reservation cancellations. 
 
 ## **Research Questions**
 - Using data and machine learning models, can hotel reservation cancellations be predicted?
